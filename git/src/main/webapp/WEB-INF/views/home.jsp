@@ -10,7 +10,8 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<p>  First commit</p>
-<p>  Second commit</p>
+<p>  1 commit</p>
+<p>  2 commit</p>
+<p>  3 commit</p>
 </body>
 </html>
